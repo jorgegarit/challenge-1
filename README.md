@@ -36,3 +36,5 @@ I added comments to the footer section as to differentiate form the rest of the 
 
 # URL of Deployed Application
 Click [here](https://jorgegarit.github.io/challenge-1/) to view my deployed application.
+
+# Hope You Enjoyed This ReadMe
