@@ -33,3 +33,6 @@ I added comments to the footer section as to differentiate form the rest of the 
 ![Top of finished webpage including header and hero](./assets/images/Horiseon-1.jpg)
 ![Middle of finished webpage wich included the content and the benefits sections](./assets/images/Horiseon-2.jpg)
 ![Bottom of finished webpage which just includes the footer](./assets/images/Horiseon-3.jpg)
+
+# URL of Deployed Application
+Click [here](https://jorgegarit.github.io/challenge-1/) to view my deployed application.
