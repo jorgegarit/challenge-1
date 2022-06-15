@@ -30,6 +30,6 @@ I also designated an alt of (alt="") for the images since they are not neccesary
 I added comments to the footer section as to differentiate form the rest of the code.
 
 # Screenshot of Finished HTML Site
-![Top of finished webpage including header and hero](images/Horiseon-1.jpg)
-![Middle of finished webpage wich included the content and the benefits sections](images.Horiseon-2.jpg)
-![Bottom of finished webpage which just includes the footer](images.Horiseon-3.jpg)
+![Top of finished webpage including header and hero](./assets/images/Horiseon-1.jpg)
+![Middle of finished webpage wich included the content and the benefits sections](./assets/images/Horiseon-2.jpg)
+![Bottom of finished webpage which just includes the footer](./assets/images/Horiseon-3.jpg)
